@@ -7,6 +7,7 @@ public class Calcul {
 		return args;
 		
 		int b;
+		int d;
 	}
 
 }
